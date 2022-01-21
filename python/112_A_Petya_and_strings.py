@@ -9,8 +9,3 @@ def sol():
         return 0
 
 print(sol())
-
-
-# aslkjlkasdd
-# 1+19+12+
-# asdlkjdajwi
